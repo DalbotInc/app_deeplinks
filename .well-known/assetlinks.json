@@ -4,7 +4,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.dalbott.bloomi.swinga",
-        "sha256_cert_fingerprints": ["YOUR_SHA256_FINGERPRINT"]
+        "sha256_cert_fingerprints": ["60:4B:31:12:A6:28:09:D9:F0:9B:6E:1E:B5:77:A2:33:54:44:F2:8D:69:05:D7:AE:DC:EE:F0:05:13:C2:F5:D3"]
       }
     }
   ]
