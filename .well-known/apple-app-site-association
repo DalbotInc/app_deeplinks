@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "STPT633CC6.com.dalbott.swingx",
+        "paths": [ "/posts/*" ]
+      }
+    ]
+  }
+}
